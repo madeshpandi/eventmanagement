@@ -1,16 +1,31 @@
-body {
-    margin: 0;
-    padding: 0;
+// pandicode
+// body {
+//     margin: 0;
+//     padding: 0;
 
+//     background: linear-gradient(120deg, #2980b9, #8e44ad);
+//     overflow: hidden;
+//     font-family: primary-font-family;
+//     font-size: 20px;
+//     min-height: 100vh;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     color: red;
+// }
+
+
+
+// vasanthcode
+body {
     background: linear-gradient(120deg, #2980b9, #8e44ad);
-    overflow: hidden;
-    font-family: primary-font-family;
-    font-size: 20px;
-    min-height: 100vh;
     display: flex;
+    font-family: 'Montserrat', sans-serif;
+    height: 100vh;
+    margin: 0 auto;
     align-items: center;
     justify-content: center;
-    color: red;
+
 }
 
 /* You can add global styles to this file, and also import other style files */
